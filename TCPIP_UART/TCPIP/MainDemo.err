@@ -1,0 +1,2 @@
+Warning[2065] D:\jo\Ideonics\PIC_Projects\PIC18F67J60_TCPIP_DENSO\TCP_IP\TCP_IP\microchip_solutions_v2013-06-15\TCPIP\Demo App\MainDemo.c 1345 : static function 'ProcessIO' never referenced
+Warning[2065] D:\jo\Ideonics\PIC_Projects\PIC18F67J60_TCPIP_DENSO\TCP_IP\TCP_IP\microchip_solutions_v2013-06-15\TCPIP\Demo App\MainDemo.c 1345 : static function 'ProcessIO' never referenced

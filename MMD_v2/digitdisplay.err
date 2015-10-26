@@ -1,0 +1,21 @@
+Error[1105] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 446 : symbol 'DIGIT_SEL_LINE_1_2' has not been defined
+Error[1101] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 446 : lvalue required
+Error[1105] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 447 : symbol 'DIGIT_SEL_LINE_3_4' has not been defined
+Error[1101] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 447 : lvalue required
+Error[1105] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 448 : symbol 'DIGIT_SEL_LINE_5' has not been defined
+Error[1101] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 448 : lvalue required
+Error[1105] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 451 : symbol 'DISPLAY_PORT_LINE_1_2' has not been defined
+Error[1101] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 451 : lvalue required
+Error[1105] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 452 : symbol 'DISPLAY_PORT_LINE_3_4' has not been defined
+Error[1101] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 452 : lvalue required
+Error[1105] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 453 : symbol 'DISPLAY_PORT_LINE_5' has not been defined
+Error[1101] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 453 : lvalue required
+Error[1105] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 457 : symbol 'DIGIT_SEL_LINE_1_2' has not been defined
+Error[1101] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 457 : lvalue required
+Error[1105] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 458 : symbol 'DIGIT_SEL_LINE_3_4' has not been defined
+Error[1101] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 458 : lvalue required
+Error[1105] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 459 : symbol 'DIGIT_SEL_LINE_5' has not been defined
+Error[1101] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 459 : lvalue required
+Error[1105] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 523 : symbol 'DISPLAY_REFRESH_PERIOD' has not been defined
+Error[1105] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 571 : symbol 'DISPLAY_REFRESH_PERIOD' has not been defined
+Error[1105] C:\Users\JO\Desktop\MMD_v2\source\digitdisplay.c 608 : symbol 'DISPLAY_REFRESH_PERIOD' has not been defined
